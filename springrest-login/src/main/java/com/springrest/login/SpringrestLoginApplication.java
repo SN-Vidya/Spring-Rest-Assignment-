@@ -1,0 +1,13 @@
+package com.springrest.login;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringrestLoginApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringrestLoginApplication.class, args);
+	}
+
+}
